@@ -23,4 +23,8 @@ cd data-sort-pro
 python main.py
 
 # Équipe
-ADEL Mahmoud • Matthieu Tolisano • Alan Delage • MANFREDONIA Dimitri • EUSTACHE--MARTIN Mathys
+ADEL Mahmoud • Matthieu Tolisano • Alan Delage • MANFREDONIA Dimitri • EUSTACHE--MARTIN Mathys.
+
+## 💡 À Propos
+
+Ce projet a été développé par des débutants en Python avec l'assistance d'IA pour nous guider dans l'apprentissage des concepts de programmation et d'algorithmie. Malgré notre niveau débutant, nous avons fait de notre mieux pour créer une application fonctionnelle et bien structurée.
